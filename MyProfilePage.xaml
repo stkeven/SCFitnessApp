@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SCFitnessApp3.MyProfilePage"
+             Title="Steven's Profile Page">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+     
+           
+        </Grid.RowDefinitions>
+
+        <Entry x:Name="EntFirst"
+               Grid.Row="0"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Placeholder="First Name"/>
+        <Entry x:Name="EntLast"
+               Grid.Row="1"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Placeholder="Last Name"/>
+        <Entry x:Name="EntPref"
+               Grid.Row="2"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Placeholder="Preferred Name"
+               />
+
+
+
+
+
+
+        <Entry x:Name="EntWeight"
+               Grid.Row="3"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Placeholder="Weight"
+               />
+        <Entry x:Name="EntHeight"
+               Grid.Row="4"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Placeholder="Height"
+               />
+        <Entry x:Name="EntAge"
+               Grid.Row="5"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Placeholder="Age"
+               />
+
+
+        <Button x:Name="BtnClsMyPro"
+                Text="Close"
+                Grid.Row="8"
+                Grid.Column="0"
+                Clicked="BtnClsMyPro_Clicked"
+                />
+
+        <Image x:Name="ImgProfile"
+           Source="before.jpg"
+           Grid.Row="6"
+           Grid.ColumnSpan="2"
+           HorizontalOptions="Center"
+           />
+
+        <Button x:Name="BtnBefore"
+                Text="Before"
+                Grid.Row="7"
+                Grid.Column="0"
+                Clicked="BtnBefore_Clicked"
+                />
+
+        <Button x:Name="BtnAfter"
+                Text="After"
+                Grid.Row="7"
+                Grid.Column="1"
+                Clicked="BtnAfter_Clicked"
+                />
+        <Button x:Name="BtnClearAll"
+                Text="Clear"
+                Grid.Row="8"
+                Grid.Column="1"
+                Clicked="BtnClearAll_Clicked"
+                />
+                
+
+    </Grid>
+</ContentPage>

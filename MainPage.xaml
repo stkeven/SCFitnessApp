@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SCFitnessApp3.MainPage"
+             Title="Steven's Fitness App">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="LblWelcome"
+               Text="Welcome to Steven's Fitness App!"
+               Grid.Row="0"
+               Grid.Column="0"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               HorizontalTextAlignment="Center"
+               FontSize="31"
+               />
+
+
+        <Label x:Name="LblCurDate"
+               Text="Todays Date: 1/29/2021"
+               Grid.Row="1"
+               Grid.Column="0"
+               HorizontalOptions="Center"
+               FontSize="20"
+               />
+
+        <Button x:Name="BtnMyProfile"
+                Text="My Profile"
+                Grid.Row="2"
+                Grid.Column="0"
+                Margin="5"
+                Clicked="BtnMyProfile_Clicked"/>
+        <Button x:Name="BtnMyBMR"
+                Text="My BMR"
+                Grid.Row="3"
+                Grid.Column="0"
+                Margin="5"
+                Clicked="BtnMyBMR_Clicked"
+       />
+        <Button x:Name="BtnMyTimer"
+                Text="My Timer"
+                Grid.Row="4"
+                Margin="5"
+                Clicked="BtnMyTimer_Clicked"/>
+        <Button x:Name="BtnMyWater"
+                Text="My Water"
+                Grid.Row="5"
+                Margin="5"
+                Clicked="BtnMyWater_Clicked"
+                />
+        <Button x:Name="BtnFoodDetails"
+                Text="Food Details"
+                Grid.Row="6"
+                Margin="5"
+                Clicked="BtnFoodDetails_Clicked"/>
+
+    </Grid>
+    
+</ContentPage>

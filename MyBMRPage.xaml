@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SCFitnessApp3.Page1"
+             Title="My BMR Page"
+             >
+    <ContentPage.Content>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            
+
+
+            <Label x:Name="LblResults"
+                   Text="Results..."
+                    FontSize="30"
+                    Margin="20,30"
+                    Grid.ColumnSpan="2"
+                    Grid.Row="0"
+                    HorizontalOptions="Center"/>
+
+            
+
+            <Picker x:Name="PckActivity"
+                    Grid.Row="1"
+                    FontSize="Large"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    Grid.ColumnSpan="2"
+                    Title="Select an Activity Level"
+                    >
+                <Picker.Items>
+                    <x:String>Very Light Activity</x:String>
+                    <x:String>Light Activity</x:String>
+                    <x:String>Moderate Activity</x:String>
+                    <x:String>Heavy Activity</x:String>
+                    <x:String>Very Heavy Activity</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Picker x:Name="PckGender" 
+                    Grid.Row="2"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    Grid.ColumnSpan="2"
+                    FontSize="Large"
+                    Title="Select a gender">
+
+                <Picker.Items>
+                    <x:String>Male</x:String>
+                    <x:String>Female</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Button x:Name="BtnCalculate"
+                    Text="CALCULATE"
+                    Font="30"
+                    Grid.Row="3"
+                    Grid.ColumnSpan="2"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    WidthRequest="1000"
+                    Clicked="BtnCalculate_Clicked"/>
+            <Button x:Name="BtnCloseBMR"
+                    Text="CLOSE"
+                    Font="30"
+                    Grid.Row="5"
+                    Grid.ColumnSpan="2"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    WidthRequest="1000"
+                    Clicked="BtnCloseBMR_Clicked"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

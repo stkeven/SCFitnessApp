@@ -1,0 +1,366 @@
+Category	Food Item	Measure	Calories
+Baked Goods	Animal crackers (arrowroot, social tea)	2	45
+Baked Goods	Apple crisp, homemade	125mL	206
+Baked Goods	Banana bread, homemade (11cm X 6cm X 1cm)	1 slice	196
+Baked Goods	Butter tart	1	248
+Baked Goods	Croissant, butter	1	231
+Baked Goods	Danish pastry, fruit (11cm diam)	1	263
+Baked Goods	Doughnut, cake-type, plain (8cm diam)	1	198
+Baked Goods	Ginger snaps	2	58
+Baked Goods	Graham crackers, plain or honey	2	59
+Baked Goods	Granola bar, soft, nuts and raisins	1	127
+Baked Goods	Muffin, bran, homemade	1	199
+Baked Goods	Sugar cookies, commercial	2	143
+Baked Goods	Toaster pastries ( Pop-TartsTM), brown sugar & cinnamon	1	206
+Baked Goods	Toaster pastries (Pop-TartsTM), fruit, frosted	1	215
+Beverages	Beer, light (4% alcohol by volume)	1 bottle	99
+Beverages	Beer, regular (5% alcohol by volume)	1 bottle	140
+Beverages	Club soda	250mL	0
+Beverages	Cocktail,  daiquiri	125mL	237
+Beverages	Cocktail,  margarita	125mL	246
+Beverages	Coffee, brewed	250mL	3
+Beverages	Coffee, latte	250mL	101
+Beverages	Cola	250mL	110
+Beverages	Ginger ale	250mL	88
+Beverages	Iced coffee, Frappuccino (StarbucksTM)	250mL	127
+Beverages	Lemonade, pink or white, frozen, diluted	250mL	105
+Beverages	Mixed vegetable and fruit juice drink, ready-to-drink	250mL	113
+Beverages	Spirits (gin, rum, vodka, whisky)	50mL	109
+Beverages	Sports drink, fruit flavour, ready-to-drink (GatoradeTM,	250mL	67
+Beverages	Tea, brewed	250mL	3
+Beverages	Water, mineral (PerrierTM)	250mL	0
+Beverages	Water, municipal	250mL	0
+Beverages	Wine, table, red	125mL	90
+Beverages	Wine, table, white	125mL	85
+Dairy	Buttermilk	250mL	104
+Dairy	Cheese, Cheddar	50g	202
+Dairy	Coffee whitener, powdered, light	5mL	9
+Dairy	Eggnog	250mL	362
+Dairy	Hot chocolate, powder + water	250mL	160
+Dairy	Milk,  chocolate, 1% M.F.	250mL	166
+Dairy	Milk,  condensed, sweetened, canned (Eagle BrandTM)	15mL	62
+Dairy	Milk, evaporated, partly skimmed, canned, diluted, 2% M.F.	250mL	122
+Dairy	Milk, partly skimmed, 1% M.F.	250mL	108
+Dairy	Milk, partly skimmed, 2% M.F.	250mL	129
+Dairy	Milk, skim	250mL	88
+Dairy	Milk, whole, 3.3% M.F.	250mL	155
+Dairy	Soy beverage, original and vanilla, enriched	250mL	110
+Dairy	Yogourt, plain, 1-2% M.F.	175mL	114
+Dairy	Yogourt, plain, fat-free	175mL	79
+Dairy	Yogourt, vanilla or fruit, 1-2% M.F.	175mL	183
+Dairy	Yogourt, vanilla or fruit, fat-free	175mL	116
+Eggs	Egg white, cooked	1 large	16
+Eggs	Egg yolk, cooked	1 large	59
+Eggs	Egg, fried	2 large	173
+Eggs	Egg, hard-boiled	1 large	78
+Eggs	Egg, poached	1 large	74
+Fast Foods	Breakfast biscuit with egg, cheese and bacon	1	477
+Fast Foods	Breakfast English muffin with egg, cheese and bacon	1	289
+Fast Foods	Cheeseburger, double patty + condiments + vegetables	1	650
+Fast Foods	Cheeseburger, single patty, plain	1	319
+Fast Foods	Chicken chow mein	250mL	200
+Fast Foods	Chicken fried rice	250mL	343
+Fast Foods	Chicken, breaded and fried, boneless (nuggets)	6	285
+Fast Foods	Chili con carne	250mL	270
+Fast Foods	Corndog (PogoTM)	1	197
+Fast Foods	Donair /  Gyro	1	310
+Fast Foods	Egg roll	1	113
+Fast Foods	Fish sandwich with breaded fish	1	523
+Fast Foods	French fries	20-25 fries	236
+Fast Foods	Garlic bread	2 slices	192
+Fast Foods	Hamburger, double patty + condiments	1	576
+Fast Foods	Hamburger, single patty, plain	1	275
+Fast Foods	Hot-dog, plain	1	242
+Fast Foods	Milk shake, chocolate	250mL	223
+Fast Foods	Milk shake, vanilla	250mL	195
+Fast Foods	Onion rings, breaded and fried	8-9	276
+Fast Foods	Pizza with cheese (medium - 12 inches)	1/6	210
+Fast Foods	Pizza with cheese and pepperoni (medium - 12 inches)	1/6	219
+Fast Foods	Submarine sandwich (6 inches), with cold cuts	1	456
+Fast Foods	Wrap sandwich, chicken ranch	1	532
+Fats and Oils	Butter	5mL	34
+Fats and Oils	Lard	15mL	117
+Fats and Oils	Margarine, tub, composite	5mL	34
+Fats and Oils	Oil, Canola	15mL	125
+Fats and Oils	Oil, Corn	15mL	122
+Fats and Oils	Oil, Flaxseed	15mL	122
+Fats and Oils	Oil, Grapeseed	15mL	122
+Fats and Oils	Oil, Olive	15mL	121
+Fats and Oils	Oil, Peanut	15mL	121
+Fats and Oils	Oil, Sesame	15mL	122
+Fats and Oils	Oil, Soybean	15mL	122
+Fats and Oils	Oil, Sunflower	15mL	122
+Fats and Oils	Salad dressing, Blue cheese	15mL	78
+Fats and Oils	Salad dressing, Creamy Caesar	15mL	79
+Fats and Oils	Salad dressing, French	15mL	72
+Fats and Oils	Salad dressing, Italian	15mL	43
+Fats and Oils	Salad dressing, Italian, low Calorie	15mL	11
+Fats and Oils	Salad dressing, Mayonnaise	15mL	100
+Fats and Oils	Salad dressing, Oil and vinegar	15mL	73
+Fats and Oils	Salad dressing, Ranch	15mL	71
+Fats and Oils	Shortening	15mL	115
+Fish	Calamari, breaded and fried	125mL	156
+Fish	Caviar, black or red	15mL	41
+Fish	Clams, mixed species, boiled or steamed	5 large	89
+Fish	Crab cake	1	93
+Fish	Crab, imitation, made from surimi	125mL	68
+Fish	Crab, snow, boiled or steamed	125mL	72
+Fish	Fish cake	1	240
+Fish	Fish fillet, battered and fried	1	265
+Fish	Fish sticks, frozen, heated (10cm x 2.5cm x 1.3cm)	3 sticks	227
+Fish	Haddock, baked or broiled	75g	84
+Fish	Halibut, Atlantic and Pacific, baked or broiled	75g	105
+Fish	Lobster, boiled or steamed	125mL	75
+Fish	Mussels, boiled or steamed	15 small	129
+Fish	Oysters, boiled or steamed	6 medium	58
+Fish	Salmon, Atlantic, farmed, baked or broiled	75g	155
+Fish	Salmon, smoked	2 pieces	47
+Fish	Scallops, cooked, steamed	6 medium	87
+Fish	Shrimp, boiled or steamed	6 medium	30
+Fish	Shrimp, breaded and fried	6 medium	160
+Fish	Sole (flatfish), baked or broiled	75g	88
+Fish	Tuna, light, canned in water, drained, salted	75g	87
+Fish	Tuna, light, canned with oil, drained, salted	75g	149
+Fruit	Apple juice, ready-to-drink, vitamin C added	125mL	59
+Fruit	Apple with skin (7cm.diam)	1	72
+Fruit	Applesauce, unsweetened	125mL	55
+Fruit	Apricots, dried	3	67
+Fruit	Apricots, raw	3	50
+Fruit	Avocado	1/2	161
+Fruit	Banana	1	105
+Fruit	Blackberries	125mL	33
+Fruit	Blueberries, frozen, unsweetened	125mL	42
+Fruit	Blueberries, raw	125mL	44
+Fruit	Cherries, sweet	10	43
+Fruit	Clementine	1	35
+Fruit	Cranberries, dried, sweetened	60mL	95
+Fruit	Cranberry juice cocktail, ready-to-drink, vitamin C added	125mL	76
+Fruit	Dates, dried	3	70
+Fruit	Figs, dried	2	42
+Fruit	Figs, raw	1	37
+Fruit	Fruit cocktail, canned, juice pack	125mL	58
+Fruit	Grape juice, ready-to-drink, vitamin C added	125mL	81
+Fruit	Grapefruit juice, ready-to-drink unsweetened or freshly	125mL	50
+Fruit	Grapefruit, white	1/2	39
+Fruit	Grapes	20	69
+Fruit	Kiwifruit	1	46
+Fruit	Lemon juice, canned or bottled	15mL	3
+Fruit	Lime juice, canned or bottled	15mL	3
+Fruit	Mango	1/2	67
+Fruit	Melon, cantaloupe, cubes	125mL	29
+Fruit	Nectarine	1	60
+Fruit	Orange	1	62
+Fruit	Orange juice, ready-to-drink	125mL	58
+Fruit	Papaya, cubes	125mL	29
+Fruit	Peach	1	38
+Fruit	Peach, canned halves or slices, juice pack	125mL	58
+Fruit	Pear with skin	1	96
+Fruit	Pear, canned halves, juice pack	125mL	66
+Fruit	Pear, canned halves, light syrup pack	125mL	76
+Fruit	Pineapple, cubes	125mL	42
+Fruit	Plum	1	30
+Fruit	Prune juice, ready-to-drink	125mL	96
+Fruit	Prunes, dried	3	60
+Fruit	Raisins	60mL	110
+Fruit	Raspberries	125mL	34
+Fruit	Strawberries	7	27
+Fruit	Tangerine (mandarin)	1	45
+Grain/Cereal	All Bran, Kellogg'sTM	125mL	92
+Grain/Cereal	Bagel, plain (10cm diam)	1	195
+Grain/Cereal	Bread stick, plain (19cm X 2cm)	1	41
+Grain/Cereal	Bread, mixed-grain	1 slice	88
+Grain/Cereal	Bread, white, commercial	1 slice	93
+Grain/Cereal	Bread, whole wheat, commercial	1 slice	86
+Grain/Cereal	Cheerios, regular General MillsTM	250mL	95
+Grain/Cereal	Cheese crackers, small	15	75
+Grain/Cereal	Corn Flakes, Kellogg’sTM	250mL	103
+Grain/Cereal	Macaroni, cooked	250mL	209
+Grain/Cereal	Melba toast, plain	2	39
+Grain/Cereal	Milk crackers	2	109
+Grain/Cereal	Muesli, President’s ChoiceTM	75mL	144
+Grain/Cereal	Oatmeal, instant, regular	1 packet	112
+Grain/Cereal	Rice Krispies, Kellogg’sTM	250mL	110
+Grain/Cereal	Rice, brown, long-grain, cooked	125mL	115
+Grain/Cereal	Rice, white, long-grain, cooked	125mL	109
+Grain/Cereal	Roll, dinner, white	1	85
+Grain/Cereal	Roll, dinner, whole wheat	1	75
+Grain/Cereal	Rusk toast	1	41
+Grain/Cereal	Saltine (oyster, soda, soup)	4	51
+Grain/Cereal	Saltine (oyster, soda, soup), unsalted top	4	52
+Grain/Cereal	Soba noodles, cooked	250mL	119
+Grain/Cereal	Spaghetti, cooked	250mL	209
+Grain/Cereal	Spaghetti, whole wheat, cooked	250mL	183
+Grain/Cereal	Special K, Kellogg’sTM	250mL	94
+Grain/Cereal	Taco shell, baked (13cm diam)	1 shell	61
+Grain/Cereal	Tortilla, corn (15cm diam)	1	41
+Grain/Cereal	Tortilla, wheat (20cm diam)	1	159
+Grain/Cereal	Whole wheat crackers	4	71
+Legumes/Nuts	Almond butter	30mL	205
+Legumes/Nuts	Almonds, dried	60mL	208
+Legumes/Nuts	Beans,  kidney, dark red, canned, not drained	175mL	161
+Legumes/Nuts	Beans, baked, plain or vegetarian, canned	175mL	177
+Legumes/Nuts	Beans, black, canned, not drained	175mL	162
+Legumes/Nuts	Brazil nuts, dried	60mL	233
+Legumes/Nuts	Cashews, roasted, salted	60mL	199
+Legumes/Nuts	Chickpeas ( garbanzo beans), canned, not drained	175mL	211
+Legumes/Nuts	Lentils, boiled, salted	175mL	170
+Legumes/Nuts	Mixed nuts, roasted, salted	60mL	206
+Legumes/Nuts	Peanut butter, smooth type, fat, sugar and salt added	30mL	191
+Legumes/Nuts	Peanut butter, smooth type, light	30mL	190
+Legumes/Nuts	Peanuts, all types, shelled, roasted	60mL	217
+Legumes/Nuts	Pecans, dried	60mL	173
+Legumes/Nuts	Soy patty	1	136
+Legumes/Nuts	Sunflower seed kernels, roasted, salted	60mL	189
+Legumes/Nuts	Tofu, regular, firm and extra firm	150g	189
+Legumes/Nuts	Walnuts, dried	60mL	166
+Meat/Poultry	Back bacon, pork, grilled	2 slices	87
+Meat/Poultry	Bacon, pork, broiled, pan-fried or roasted	3 slices	130
+Meat/Poultry	Beef, Ground, extra lean, crumbled, pan-fried	75g	167
+Meat/Poultry	Beef, Ground, lean, crumbled, pan-fried	75g	194
+Meat/Poultry	Beef, Ground, medium, crumbled, pan-fried	75g	214
+Meat/Poultry	Beef, Ground, regular, crumbled, pan-fried	75g	243
+Meat/Poultry	Beef, Rib steak, lean + fat, broiled	75g	232
+Meat/Poultry	Beef, Rump roast, lean + fat, broiled	75g	164
+Meat/Poultry	Beef, Sirloin tip roast, lean + fat, roasted	75g	156
+Meat/Poultry	Beef, Stewing beef, lean, simmered	75g	183
+Meat/Poultry	Beef, Strip loin (New York) steak, lean + fat, broiled	75g	191
+Meat/Poultry	Beef, T-Bone (Porterhouse) steak, lean + fat, broiled	75g	216
+Meat/Poultry	Beef, Tenderloin, steak, lean + fat, broiled	75g	170
+Meat/Poultry	Bologna (baloney), beef and pork	2 slices	153
+Meat/Poultry	Chicken, broiler, breast, meat and skin, roasted	75g	142
+Meat/Poultry	Chicken, broiler, breast, meat, roasted	75g	119
+Meat/Poultry	Chicken, broiler, drumstick, meat and skin, roasted	75g	161
+Meat/Poultry	Chicken, broiler, drumstick, meat, roasted	75g	127
+Meat/Poultry	Chicken, broiler, wing, meat and skin, roasted	75g	218
+Meat/Poultry	Chicken, canned, flaked	60mL	89
+Meat/Poultry	Chicken, ground, lean, cooked	75g	153
+Meat/Poultry	Corned beef,  brisket, cooked	2 slices	101
+Meat/Poultry	Cottage roll, pork, lean and fat, roasted	2 slices	69
+Meat/Poultry	Deli meat, beef, thin sliced	4 slices	83
+Meat/Poultry	Deli meat, chicken breast roll	2 slices	75
+Meat/Poultry	Deli meat, ham, regular (11% fat)	2 slices	91
+Meat/Poultry	Deli meat, mock chicken, loaved	2 slices	147
+Meat/Poultry	Deli meat, turkey breast	2 slices	63
+Meat/Poultry	Ham, extra lean, canned	2 slices	62
+Meat/Poultry	Ham, lean, canned	2 slices	81
+Meat/Poultry	Ham, lean, roasted	75g	118
+Meat/Poultry	Kidney, beef, simmered	75g	119
+Meat/Poultry	Kielbasa (Kolbassa), pork and beef	1 piece	124
+Meat/Poultry	Lamb, American, fresh, ground, cooked	75g	212
+Meat/Poultry	Lamb, American, fresh, loin, lean + fat, cooked	75g	232
+Meat/Poultry	Lamb, New Zealand, frozen, loin, lean + fat, broiled	75g	222
+Meat/Poultry	Lamb, New Zealand, frozen, rib, lean + fat, roasted	75g	238
+Meat/Poultry	Liver, beef, pan-fried	75g	131
+Meat/Poultry	Pastrami, beef	2 slices	74
+Meat/Poultry	Pate, liver, canned	30mL	84
+Meat/Poultry	Pepperoni, pork, beef	10 slices	252
+Meat/Poultry	Pork, Centre cut, loin, chop, lean + fat, broiled	75g	180
+Meat/Poultry	Pork, Centre cut, loin, chop, lean + fat, pan-fried	75g	208
+Meat/Poultry	Pork, Ground, medium, pan-fried	75g	224
+Meat/Poultry	Pork, Loin, rib end, lean + fat, broiled	75g	197
+Meat/Poultry	Pork, Shoulder, whole, lean + fat, roasted	75g	219
+Meat/Poultry	Pork, Spareribs, lean + fat, braised	75g	251
+Meat/Poultry	Pork, Tenderloin, lean, roasted	75g	108
+Meat/Poultry	Salami, beef and pork	2 slices	118
+Meat/Poultry	Sausage, breakfast, pork and beef, cooked	1	51
+Meat/Poultry	Wiener (frankfurter), beef	1	104
+Miscellaneous	Bacon bits, simulated meat	15mL	34
+Miscellaneous	Gravy, beef, canned	60mL	31
+Miscellaneous	Gravy, chicken, canned	60mL	48
+Miscellaneous	Ketchup	15mL	15
+Miscellaneous	Mustard	15mL	11
+Miscellaneous	Olives, pickled, canned or bottled	4	23
+Miscellaneous	Olives, ripe, canned, jumbo	2	13
+Miscellaneous	Onion dip	30mL	50
+Miscellaneous	Pickle  relish, sweet	15mL	20
+Miscellaneous	Pickles, cucumber, sweet, slices	4	33
+Miscellaneous	Salsa	15mL	5
+Miscellaneous	Sauce,  soy	15mL	7
+Miscellaneous	Sauce,  steak (HPTM, A1TM)	15mL	9
+Miscellaneous	Sauce,  sweet and sour	15mL	20
+Miscellaneous	Sauce, barbecue	15mL	12
+Miscellaneous	Sauce, teriyaki	15mL	15
+Miscellaneous	Spinach dip	30mL	74
+Mixed Dishes	Burrito with beans and cheese	1	189
+Mixed Dishes	Caesar Salad	250mL	179
+Mixed Dishes	Caesar salad with chicken	500mL	491
+Mixed Dishes	Chicken pot pie, commercial, individual	1 serving	494
+Mixed Dishes	Club sandwich	1	558
+Mixed Dishes	Garden Salad	250mL	47
+Mixed Dishes	Greek Salad	250mL	139
+Mixed Dishes	Macaroni and cheese (Kraft DinnerTM)	250mL	395
+Mixed Dishes	Poutine	250mL	380
+Mixed Dishes	Stir fry with beef	250mL	290
+Mixed Dishes	Sushi with fish	4	164
+Mixed Dishes	Sushi with vegetables, no fish	4	122
+Mixed Dishes	Taco with beef, cheese, salsa + vegetables	1	168
+Snacks	Beef jerky (22cm long)	1 stick	81
+Snacks	Corn-based puffs or twists, cheese (CheesiesTM)	250mL	205
+Snacks	Popcorn, Air-popped	250mL	32
+Snacks	Popcorn, Microwave, low fat and reduced salt	250mL	34
+Snacks	Potato chips, plain	1 small bag	230
+Snacks	Pretzels, hard, plain, salted	10 sticks	19
+Snacks	Rice cakes, plain	1	35
+Snacks	Tortilla chips, nacho flavoured (DoritosTM)	1 small bag	249
+Snacks	Trail mix, regular	60mL	176
+Soups	Soup, Chicken noodle	250mL	79
+Soups	Soup, Cream of mushroom	250mL	137
+Soups	Soup, Tomato	250mL	90
+Soups	Soup, Tomato, reduced salt	250mL	90
+Soups	Soup, Vegetables with beef	250mL	83
+Soups	Soup, Vegetarian vegetable	250mL	76
+Sweets	Brown sugar	5mL	18
+Sweets	Frozen yogourt, chocolate	125mL	116
+Sweets	Honey	5mL	22
+Sweets	Ice cream cone, vanilla, soft serve	1	266
+Sweets	Ice cream, vanilla, low fat	125mL	117
+Sweets	Jams and preserves	15mL	56
+Sweets	Maple syrup	15mL	55
+Sweets	Milk  chocolate, bars or chips	1 bar	268
+Sweets	Popsicles	1	54
+Sweets	Sherbet, orange	125mL	113
+Sweets	Spread, chocolate hazelnut ( NutellaTM)	30mL	203
+Sweets	Sugar substitute, aspartame ( EqualTM)	1 packet	4
+Sweets	White sugar (granulated)	5mL	16
+Vegetables	Asparagus, fresh or frozen, boiled, drained	6 spears	18
+Vegetables	Bean sprouts, stir-fried	125mL	33
+Vegetables	Beans, snap (green, yellow, Italian), canned, drained	125mL	14
+Vegetables	Beans, snap (green, yellow, Italian), fresh or frozen,	125mL	22
+Vegetables	Bok Choy,  Pak-Choi, shredded, boiled, drained	125mL	11
+Vegetables	Broccoli, chopped, boiled, drained	125mL	29
+Vegetables	Brussels sprouts, fresh or frozen, boiled, drained	4 sprouts	33
+Vegetables	Cabbage, green, shredded, raw	125mL	9
+Vegetables	Carrot juice	125mL	50
+Vegetables	Carrots, raw	1 medium	25
+Vegetables	Cauliflower, pieces, raw	125mL	13
+Vegetables	Celery, raw	1 stalk	6
+Vegetables	Corn, sweet, canned, niblets	125mL	88
+Vegetables	Cucumber, peeled, raw	4 slices	3
+Vegetables	Edamame	125mL	100
+Vegetables	Leeks, chopped, boiled, drained	125mL	17
+Vegetables	Lettuce, iceberg, shredded	250mL	8
+Vegetables	Lettuce, romaine, shredded	250mL	10
+Vegetables	Mushrooms, pieces, canned, drained	125mL	21
+Vegetables	Mushrooms, raw	3 medium	12
+Vegetables	Onions, green (scallion), raw	1 medium	5
+Vegetables	Onions, yellow, chopped, raw	60mL	17
+Vegetables	Parsnip, sliced, boiled, drained	125mL	59
+Vegetables	Peas,  snowpeas, boiled, drained	125mL	36
+Vegetables	Peas, green, canned, drained	125mL	62
+Vegetables	Pepper, sweet, green, raw	1/2	16
+Vegetables	Pepper, sweet, red, raw	1/2	15
+Vegetables	Potato, baked, flesh and skin	1	161
+Vegetables	Potato, boiled without skin	1	116
+Vegetables	Potatoes, French fried, frozen, home-prepared in oven	20 strips	96
+Vegetables	Rutabaga (yellow turnip), diced, boiled, drained	125mL	35
+Vegetables	Sauerkraut, canned, not drained	125mL	14
+Vegetables	Spinach, chopped, raw	250mL	7
+Vegetables	Squash, acorn, cubed, baked	125mL	61
+Vegetables	Sweet potato, boiled without skin	1/2	57
+Vegetables	Swiss chard, chopped, boiled, drained	125mL	18
+Vegetables	Tomato juice	125mL	22
+Vegetables	Tomato sauce, canned	125mL	41
+Vegetables	Tomatoes, canned, stewed	125mL	35
+Vegetables	Tomatoes, raw	1	22
+Vegetables	Vegetable juice cocktail	125mL	24
+Vegetables	Zucchini, raw, slices	4	6

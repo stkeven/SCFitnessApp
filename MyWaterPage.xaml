@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SCFitnessApp3.MyWaterPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Label x:Name="LblMyWaterTitle"
+               Text="My Water Count"
+               Grid.Row="0"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               HorizontalTextAlignment="Center"
+               FontSize="31"
+               />
+            <Label x:Name="LblToday"
+               Text="Today:"
+               Grid.Row="1"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               HorizontalOptions="Center"
+               FontSize="20"
+               />
+            <Label x:Name="LblWaterDisplay"
+               Text="No water yet today"
+               Grid.Row="2"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               HorizontalTextAlignment="Center"
+               FontSize="31"
+               />
+            <FlexLayout x:Name="SLWater"
+             VerticalOptions="CenterAndExpand"
+             HorizontalOptions="CenterAndExpand"
+             Grid.ColumnSpan="2"
+             Grid.Row="3"/>
+            <Button x:Name="BtnAddWtr"
+                Text="ADD WATER"
+                Grid.Row="4"
+                Grid.Column="0"
+                Margin="5"
+                FontSize="20"
+                Clicked="BtnAddWtr_Clicked"/>
+            <Button x:Name="BtnWtrClose"
+                Text="Close"
+                Grid.Row="4"
+                Grid.Column="1"
+                Margin="5"
+                FontSize="20"
+                Clicked="BtnWtrClose_Clicked"
+            />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
